@@ -1,9 +1,7 @@
 import React from 'react';
 
-function App() {
-  return (
-      <div>di</div>
-  );
-}
+const App: React.FunctionComponent = () => {
+    return <div>di</div>;
+};
 
 export default App;
